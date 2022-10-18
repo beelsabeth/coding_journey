@@ -1,0 +1,17 @@
+// Fun fact about myself - I collect skulls!
+
+#include <iostream>
+
+int main () {
+
+  // my program lives here:
+
+  std::cout << "EEEEE M   M\n";
+  std::cout << "E     MM MM\n";
+  std::cout << "E     MM MM\n";
+  std::cout << "EEE   M M M\n";
+  std::cout << "E     M   M\n";
+  std::cout << "E     M   M\n";
+  std::cout << "EEEEE M   M\n";
+
+}
