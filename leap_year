@@ -1,0 +1,29 @@
+#include <iostream>
+
+int main() {
+  //determine the variable
+  int year = 0;
+
+  //Ask for year input
+  std::cout << "Enter year: \n";
+  std::cin >> year;
+
+  //check if year entered is a four digit number
+  if (year <= 999 || year > 9999) {
+    //result if the year entered is NOT a four digit number
+    std::cout << "Please enter a valid year.\n";
+  }
+
+ //check IF year CAN be evenly divided by 4 AND year CAN'T be evenly divided by 100 OR year CAN be evenly divided by 400
+  else if (year % 4 == 0 && year % 100 != 0 or year % 400 == 0){
+    std::cout << year << "is a leap year.\n";
+  }
+
+  else {
+    //result if the year entered does not meet the criteria in the last statement, therefor not a leap year
+    std::cout << year << " is not a leap year.\n";
+  }
+
+  
+  
+}
