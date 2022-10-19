@@ -8,27 +8,27 @@ int main() {
     //check if i is divisible by 3 and 5 (15) and if so print "fizzbuzz" 
     //*important! conditions are executed IN ORDER so FizzBuzz will NOT print if this condition is after the 3 and 5 conditions
     if (i % 15 == 0) {
-      std::cout << "Fizz Buzz!\n";
+      std::cout << "Fizz Buzz!🤯\n";
     }
 
     //check if i is divisible by 3 and if so print "fizz"
     else if (i % 3 == 0) {
-      std::cout << "Fizz!\n";
+      std::cout << "Fizz!🥤\n";
     }
 
     //check if i is divisible by 5 and if so print "buzz"
     else if (i % 5 == 0) {
-      std::cout << "Buzz!\n";
+      std::cout << "Buzz!🐝\n";
     }
 
     //check if i is divisible by 7 and if so print "woof"
     else if (i % 7 == 0){
-      std::cout << "Woof!\n";
+      std::cout << "Woof!🐕\n";
     }
     
     //check if i is the number 13 and if so print "boo"
     else if (i == 13) {
-      std::cout << "BOO!\n";
+      std::cout << "👻👻👻BOO!👻👻👻\n";
     }
 
     //if none of the 3 conditions apply, print the number (i)
