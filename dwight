@@ -1,0 +1,70 @@
+#include <iostream> 
+
+int main() {
+  std::cout << "                       `/+o/.                                                           \n";
+  std::cout << "                   .+sso+/:oydyo/:-:+shdys/ `-:. `-/+o+/`                               \n";
+  std::cout << "               `/sdh+/::/::ss:`ymdhyso//hmMNyhNNms+ososys+/-:/shms/`                    \n";
+  std::cout << "            .+hNNy++oo+/.`.--/osyhdmNNMMMMMMMMMNdsssssoso+hhhhsoo+ymdo.                 \n";
+  std::cout << "           -smNy/+ymmmmmNNNNMNMMMMMNNNmmNMMMMMMMMMho:///:--shydNMMNdo-sNs`              \n";
+  std::cout << "          -hNd+-sNMNdmNMMMNNNMNNNMMMddNMMNNmNMMMMMMNmy+///::/:-:/++ymNNdmMN:            \n";
+  std::cout << "         `sNMs`+NMNNNMMMMNNNMMMMMMNmhyso///+ohMmoNMmoo+/::/-:oymNNmsosshdhmMM/          \n";
+  std::cout << "        +NMMy`hMMMhyNMNMMNNNMds:-.`-:syddmNMMmyo`+yMMho:..-+//++omMNNNNNNNmdNMs         \n";
+  std::cout << "       :mMMMh`yMNdodNNNMNMMMs.+sdmmmmmdhNMMMNhy/..`-syhNmdyssso+/.`:yNMMMMNMNMMMy       \n";
+  std::cout << "      :NMNh:-+MMh+mdNNNNNMd.+NNMMMMMMMMmho:-......:--::ohNMMMMMMNmNy/.oNMNmNMNMMMs      \n";
+  std::cout << "     :NMm+/dmmMNydyhNdhMMN.yMMNmhysso+:-``        ```.--:/+sdMMMMMNNNm:-mMNNNNMMMMy     \n";
+  std::cout << "    :NMy/hNMMMMmNddsh/NmMy-Mms:..`.--.`                ``..-.:yNMMMMNMNs:NMMMNNNNMMy    \n";
+  std::cout << "   :NNy/mMMMMMMmNMMshsNdMo/d-...``                       ```...-yMMMNNMd`NMMNMdmoNMM-   \n";
+  std::cout << "  /mMm+NMNNMMNMNNNNNNNNMMmom/                              ```..`+NMMMMh`NMMMMNNdhNMh   \n";
+  std::cout << " +NMMmmMNyNMNMMMMMNmmmNMdNNyh+.                             ``````/NMMM::MMMMNMNNmNMN   \n";
+  std::cout << "+MNNMMMNymMNNMMMNNNNNMh+:+dNmddhyoo+`                        ````.`sMMN`sMNNMNNMNNNNN   \n";
+  std::cout << "dNNNMNNddMNNNNNNmymMN+---::/shdhyyy:                         `````..hMo.NMNMNMMMNmMMd   \n";
+  std::cout << "dNNNMMNmNNNmmNMNdNMM+.-..----.-:::.                          ````...:mh/NMMMNMMMNNMMh   \n";
+  std::cout << "sMNNMMNMNNmyNMNdmNMo--.....                                  ``...---:dNMNMMNMMNNNMMN.  \n";
+  std::cout << " :NNNMMMNNNsmMNmMNMy...`.-.`                                   `.-----:odNmmNMMMMMNMMo  \n";
+  std::cout << " .NMMMmMMMNmMNNNNMm:-.```..                                      ``-----:/o//dMMMNMMMm  \n";
+  std::cout << " .NMMMNMMNMMNMNNNNs--.``...                                         `....---..dMNMMMMM` \n";
+  std::cout << " .NNMMNNNNNMMMNNNN:-...`...                                          ```.....`+MMMMMMM. \n";
+  std::cout << " .MNNNNNNNMMMMMNNy.......-.`                                         ``..---.`.NMMMMMM` \n";
+  std::cout << " `NMNMMNNNMMNMMMm-...`.-----.`                                       ``.-----.`yMMMMMd  \n";
+  std::cout << "  dMMMNNNNMMNNMMo`-....----..`          ``                     `.`` ```.------`:MMMMM-  \n";
+  std::cout << "  /MMNMNNNMMNMMN-`.`..-.--.` `--..-:-.-.``..``              ```.-......--.----..NMMMd   \n";
+  std::cout << "  `mMNMNNMMMNNMN.``...-.-../hddyysyhysyyso+--/::-..--...----:::+syyyyhhdddy+:-.-.hMMM:  \n";
+  std::cout << "   :NNNNNNMMMMMN.`....--.:dy/:-.-/+++ososss+/:+shyo/::/:+os+:+syosyoso+/://ss//.`+MMm   \n";
+  std::cout << "    +MdmNNMNMMMN+.--....:+-.-:+ooymdddmdhyo++ss+/yMo.`..oNsyhdhmdmmmmNmdo:-.--:+-:MM/   \n";
+  std::cout << "   `y/..-+dNNMMMo-shhyo++--+sso-`dsymoso.smyso+//.od+/:/ho+yyhd/ymsNhyy./yy/``.-hhmm`   \n";
+  std::cout << "   .s+md+- oMMMm``.-/sy//-.+/s.  odys+s-  /shyso+.sm+:::yd/hh+:`.hyyhy- `/y/.` `hs/s`   \n";
+  std::cout << "   -oyMNyhs:NMMo     `.-`         .---` ``.`/::+s/ms````-mo+:`````.--` ````     `sNm`   \n";
+  std::cout << "   `hsMh`.hymMM:       `-         `          .:+:hy`     od:-`                  .+sM-`` \n";
+  std::cout << "    o+o/``-/mMM-        .-                ``.```hy`       s.`.`                 -/+M+`` \n";
+  std::cout << "    .s `./NMMMM-         --            ````  `:ho`        .s`   ```            ./.+My`  \n";
+  std::cout << "     /: `+MMdMM/          -.  `       `   ..+++-           :d/.             ``:o-`oMy   \n";
+  std::cout << "      o. .sdNMMm`            `--:://+//.`-///:.           `.ohooo:-.`` `.-:+//:..`hMy   \n";
+  std::cout << "      `s```.yMMMs                  ```     .y+  `::.:----.-``o:-::/:::--:::-----..mMo   \n";
+  std::cout << "       :s` `oMNMN-                         :N+  -NNhy/:/sds./:..----------------`/MN.   \n";
+  std::cout << "        +o``-NMNMd`                      `-syyoo++/.++:so/+yN+..--....-..-....--`dM+    \n";
+  std::cout << "         +:.`oMNNN`                     .:-` `.::.` `--..---/+/---.```........-.:d:     \n";
+  std::cout << "          ./++Ny::`                   `--`          .--..-----::-..```......---.s.      \n";
+  std::cout << "            `:os.--`                  .`            `.. ``.------.`.```..-----.:o       \n";
+  std::cout << "              `h-..`                 ``        .:syy/-/ydho-.--...`````.------.+.       \n";
+  std::cout << "               +o`.`                        ./ymNNNNNNNmmNNNh:....``.```.-----:s        \n";
+  std::cout << "               `h-`.                    -/+oyo/:----:---.--:+sso:........--::-+:        \n";
+  std::cout << "                /d...                 `.++:  -:--/+:/oo+o++-.``--.....-----:-:y         \n";
+  std::cout << "                `Md:.`                ``     `-:/+ooooo+/-........-----------yo         \n";
+  std::cout << "                 mNNs-`                     `..-/oo+://:/oo:......----------os          \n";
+  std::cout << "                 h:+md:.                  ...``.`         `------.---------++           \n";
+  std::cout << "                `h..-+ddo.`                            ``.----------------s:            \n";
+  std::cout << "                 h` .--/ydy:`                   `...--------------------+y.             \n";
+  std::cout << "                 h` ..--+yds+.`                 `....----------------:+dN`              \n";
+  std::cout << "                `y    `.-.-:sdhs:.`      `...````..----------------:smsdm               \n";
+  std::cout << "                `h       .--..-+ymdy+/:----:----------------.-/shs+.`os                 \n";
+  std::cout << "                `h         `..--..:sdmmhyo/::----------::/+syhy/....`+-                 \n";
+  std::cout << "                -y            `..--..--/oosyyyhhhyyyssoooo/:.`...`.` /-                 \n";
+  std::cout << "                `.                `..--.......................````   +`                 \n";
+  std::cout << "                                     `...------..-.........``                           \n";
+  std::cout << "                                         ``..-.--........``                             \n";
+  std::cout << "                                              ```..```                                  \n";
+ 
+
+
+
+}
