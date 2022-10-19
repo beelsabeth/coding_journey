@@ -1,0 +1,28 @@
+#include <iostream>
+
+int main() {
+  
+  int i = 0;
+  int square = 0;
+  
+  // Write a while loop here:
+    // formula = value of i + 3 spaces + value of square
+    
+  while (i < 10) {
+    square = i * i;
+    std::cout << i << "   " << square << "\n";
+    i++;
+  }
+    /* could also be written on one line
+    std::cout << i << "   " << i * i << "\n";
+    */
+  
+    // if (i< 10) wasn't specified in the while loop, the condition would execute infinitely! (infinite loop - need to refresh the page or it never stops loading outcomes)
+  
+  
+  
+  
+  
+  
+  
+}
