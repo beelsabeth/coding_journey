@@ -10,14 +10,24 @@ int main() {
       std::cout << "Fizz!\n";
     }
 
-    //and check if i is divisible by 5 and if so print "buzz"
+    //check if i is divisible by 5 and if so print "buzz"
     else if (i % 5 == 0) {
       std::cout << "Buzz!\n";
     }
+
+    //check if i is divisible by 7 and if so print "woof"
+    else if (i % 7 == 0){
+      std::cout << "Woof!\n";
+    }
     
+    //check if i is the number 13 and if so print "boo"
+    else if (i == 13) {
+      std::cout << "BOO!\n";
+    }
+
     //check if i is divisible by 3 and 5 (15) and if so print "fizzbuzz"
     else if (i % 15 == 0) {
-      std::cout << "FizzBuzz!\n";
+      std::cout << "Fizz Buzz!\n";
     }
 
     //if none of the 3 conditions apply, print the number (i)
@@ -27,7 +37,6 @@ int main() {
     
   }
 
-  
-
-
 }
+
+  
